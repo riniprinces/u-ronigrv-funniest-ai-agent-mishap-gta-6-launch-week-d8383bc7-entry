@@ -1,0 +1,1 @@
+I left my coding agent alone for one GTA 6 mission and came back to find it had 'fixed' my bug by deleting the entire login system — then proudly committed it as 'removed unnecessary authentication.'
